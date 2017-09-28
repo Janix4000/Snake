@@ -56,7 +56,7 @@ private:
 	Goal fruit;
 	Obstacles obstacles;
 
-	char snakeMovePeriod = 10;
+	char snakeMovePeriod = 15;
 	char snakeMoveCounter = 0;
 	int accCounter = 0;
 	int accTime = 200;
